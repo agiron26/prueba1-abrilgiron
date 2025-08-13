@@ -24,14 +24,7 @@ trendy{
 	margin-bottom: 35px;
 }
 
-.textos{
-	color: var(--color-gris);
-	font-family:"Didact Gothic", sans-serif;
-	font-weight: 400;
-	font-size: 12px;
-}
-
-h3{
+.trendystylish{
 	color: var(--color-titulos);
 	font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -45,4 +38,103 @@ h3{
 	font-family: "Poppins", sans-serif;
 	font-weight: 450;
 	font-size: 12px;
+	text-transform: uppercase;
+}
+
+.textos2{
+	color: var(--color-gris);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.ourpackages{
+	color: var(--color-titulos);
+	font-family:"Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.ourservices{
+	margin-top: 80px;
+	color: var(--color-titulos);
+	font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+}
+
+.ourservices_p{
+	color: var(--color-titulos);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-align: center;
+}
+
+.textoservices{
+	color: var(--color-titulos);
+	font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+.textos3{
+	color: var(--color-titulos);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+h2{
+	color: var(--color-titulos);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center
+}
+
+.iconos1{
+	padding-left: 280px;
+	font-size: 30px;
+	color: black
+}
+
+.iconos2{
+	padding-left: 280px;
+	font-size: 30px;
+	color: black
+}
+
+.testimonialestexto{
+	color: var(--color-titulos);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center
+}
+
+.testimonialestexto2{
+	color: var(--color-gris);
+	font-family:"Poppins", sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center
+}
+
+.footer{
+    background: #000;
+    color: #fff;
+    padding: 50px;
+	text-align: center;
+}
+
+.iconosfooter{
+	font-size: 30px;
+	color: white;
+	margin-left: 10px;
 }
