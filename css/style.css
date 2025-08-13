@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+:root{
+	--color-general:#383838;
+	--color-titulos:#222;
+	--colorfondo-negro:#262728;
+	--colorfondo-rosado:#fee9da;
+	--color-gris:#c6c6c6;
+	--color-blanco:#fff;
+}
+
+body{ 
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+	color: var(--color-blanco);
+}
+
+header{
+	padding: 10px 0;
+}
+
+trendy{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.textos{
+	color: var(--color-gris);
+	font-family:"Didact Gothic", sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+}
+
+h3{
+	color: var(--color-titulos);
+	font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+.linea{
+	color: var(--color-primary);
+	font-family: "Poppins", sans-serif;
+	font-weight: 450;
+	font-size: 12px;
+}
